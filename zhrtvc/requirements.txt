@@ -1,6 +1,6 @@
 cycler
 sounddevice
-tensorflow<=1.15.2
+tensorflow<2.4.1
 matplotlib
 umap_learn
 phkit>=0.2.2

@@ -3,7 +3,7 @@ librosa==0.7.2
 aukit==1.4.4
 sounddevice==0.3.14
 webrtcvad_wheels==2.0.10.post2
-tensorflow==1.15.2
+tensorflow==2.4.0
 numpy==1.18.4
 matplotlib==2.2.3
 cycler==0.10.0
